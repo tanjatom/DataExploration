@@ -7,7 +7,7 @@ This repository hosts Jupyter Notebooks, each delving into a distinct project or
 Techniques and Libraries Used:
 The projects in this repository leverage various libraries and techniques for data exploration, visualization, and cleaning. Some of the key libraries include:
 
-Pandas: Used for data manipulation and analysis.
-NumPy: Essential for numerical computing and handling arrays and matrices.
-Matplotlib: Primarily employed for creating static visualizations.
-Seaborn: Built on top of Matplotlib, Seaborn is used for statistical data visualization.
+- Pandas: Used for data manipulation and analysis.
+- NumPy: Essential for numerical computing and handling arrays and matrices.
+- Matplotlib: Primarily employed for creating static visualizations.
+- Seaborn: Built on top of Matplotlib, Seaborn is used for statistical data visualization.
